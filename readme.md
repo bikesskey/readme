@@ -36,7 +36,7 @@ bikesskey（以下「当団体」といいます）の運営する分散型SNSMi
 
 - Eメールアドレス
 - IPアドレス
-- その他[プライバシーポリシー]()に記載されている情報
+- その他[プライバシーポリシー](https://github.com/bikesskey/readme/blob/main/privacy-policy.md)に記載されている情報
 
 収集する情報は以下の目的に限って利用し、この目的以外では利用しません。
 
